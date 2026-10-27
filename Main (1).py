@@ -32,7 +32,7 @@ from aiogram.types import (
 # ==============================================================================
 # 1. BOT CONFIGURATION & CONSTANTS
 # ==============================================================================
-BOT_TOKEN = "8631859181:AAF2w6nq2wcy7-OWwxV7qANQ9J5s60BtH9k"
+BOT_TOKEN = "8631859181:AAGOmf6NxFqNJjOY0ZkN0Qf9bRWVjUhzGcY"
 BOT_USERNAME = "@paysensi_bot"
 ADMIN_ID = 8631859181
 ADMIN_CONTACT = "@KAKASHIyy"
